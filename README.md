@@ -10,12 +10,12 @@
     <title>LinkFree | Caio Gomes</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-    <link rel="icon" href="assets/imagens/favicon.png" type="image/x-icon" />
+    <link rel="icon" href="assets/favicon.png" type="image/x-icon" />
 </head>
 
 <body>
     <div id="profile">
-        <img id="userPhoto" src="assets/images/profile.jpeg" alt="Profile picture of Caio Gomes">
+        <img id="userPhoto" src="assets/profile.jpeg" alt="Profile picture of Caio Gomes">
         <div id="userName">
             <h1>Caio Gomes</h1>
             <p>Software Engineer</p>
